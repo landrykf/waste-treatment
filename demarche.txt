@@ -1,0 +1,7 @@
+Ma démarche initiale est d'abord de réaliser une conception du projet avec un schéma détaillant 
+les relations entre mes différentes entités, lees entrées, les sorties et les différentes fonction.
+Ensuite viendra l'initialisation du projet avec avec Docker puis l'ensemble de mes fichiers.
+
+Pour le versionning je prévoit de faire un miroir de gitlab vers github.
+
+A l'étape développement je compte travailler une heure tout les jours sur le projet afin de garder le controle sur la deadline 
